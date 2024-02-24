@@ -8,3 +8,5 @@ The visual quality could definitely be improved and there is some stuttering I'v
 
 Simply run ```python3 main.py``` in your terminal
 
+Quit the program with Ctrl + C.
+
